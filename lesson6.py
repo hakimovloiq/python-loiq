@@ -5,4 +5,4 @@ def my_fuction(country = "tajikistan"):
  my_fuction("sweden")
  my_fuction(india)
  my_fuction()
- my_fuction("brazil")
+ my_fuction("brazil"
